@@ -1,13 +1,17 @@
 ## CRYS: geo🇨hronology data 🇷eduction for 🇾ield and 🇸ensitivity
 
 ### Author
+- @JennaEverard
 
 ### About
+
 
 ## Directory Structure
 
 ```diff
 + main.py
++ data-collection.py
++ sensitivity.py
 - data/
 ```
 
