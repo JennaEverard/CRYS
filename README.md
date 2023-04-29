@@ -1,4 +1,4 @@
-# CRYS:<br /> geo🇨hronology data 🇷eduction for 🇾ield and 🇸ensitivity
+## CRYS: geo🇨hronology data 🇷eduction for 🇾ield and 🇸ensitivity
 
 ### Author
 
